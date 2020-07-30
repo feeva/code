@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{RXBc:function(n,e,t){"use strict";t.r(e);var c=t("q1tI"),u=t.n(c);e.default=function(){return u.a.createElement("div",null,"이 페이지는 공백입니다.")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-9d1d8409ebfac03af375.js.map
